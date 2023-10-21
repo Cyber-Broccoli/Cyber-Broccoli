@@ -1,4 +1,4 @@
-## Hi there 🌘
+## 🌱
 <!--
 **Cyber-Broccoli/Cyber-Broccoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 👋 Hi there
 -->
 
-### ⚡ [I Need To Hack My Toaster](https://github.com/Cyber-Broccoli/Need-to-Hack-My-Toaster) :hammer::hammer::hammer:....🤔.....⚡.....:hammer::hammer:💬:hammer::persevere::hammer::bomb::hammer::boom::hammer:💬⚡:hammer::hammer:....:sweat_smile:
+
